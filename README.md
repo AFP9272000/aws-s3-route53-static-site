@@ -27,6 +27,7 @@ s3-static-site/
 2. **Uploaded HTML Files**
    - `index.html`: Main landing page
    - `error.html`: Custom error page
+   - upload.py script for uploading
 
 3. **Enabled Static Website Hosting**
    - Configured index and error documents in bucket settings
