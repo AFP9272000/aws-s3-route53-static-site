@@ -11,7 +11,9 @@ This project demonstrates how to host a fully functional static website using **
 
 s3-static-site/
 ├── index.html
+
 ├── error.html
+
 └── README.md
 
 
