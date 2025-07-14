@@ -5,7 +5,7 @@ This project demonstrates how to host a fully functional static website using **
 ##  Technologies Used
 - Amazon S3 (Simple Storage Service)
 - Amazon Route 53 (DNS)
-- HTML (Static web content)
+- HTML (Static web content) (Link: http://addisonengineer.org/)
 
 ##  Folder Structure
 
