@@ -10,6 +10,7 @@ This project demonstrates how to host a fully functional static website using **
 ##  Folder Structure
 
 s3-static-site/
+
 ├── index.html
 
 ├── error.html
